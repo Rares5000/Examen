@@ -74,3 +74,4 @@ C:\Users\baciu\Documents\GitHub\Examen-Web\Examen\Examen\obj\Debug\net7.0\refint
 C:\Users\baciu\Documents\GitHub\Examen-Web\Examen\Examen\obj\Debug\net7.0\Examen.pdb
 C:\Users\baciu\Documents\GitHub\Examen-Web\Examen\Examen\obj\Debug\net7.0\Examen.genruntimeconfig.cache
 C:\Users\baciu\Documents\GitHub\Examen-Web\Examen\Examen\obj\Debug\net7.0\ref\Examen.dll
+C:\Users\baciu\Documents\GitHub\Examen-Web\Examen\Examen\obj\Debug\net7.0\Examen.sourcelink.json
